@@ -1,0 +1,27 @@
+# Data files (too large for GitHub)
+data/
+*.npy
+*.csv
+*.jpg
+*.png
+
+# Profiling outputs
+*.nsys-rep
+*.sqlite
+*.qdrep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+
+# SLURM outputs
+*.out
+*.err
+
+# Model checkpoints
+*.pth
+*.pt
