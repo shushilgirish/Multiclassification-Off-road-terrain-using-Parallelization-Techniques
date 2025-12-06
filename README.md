@@ -215,7 +215,6 @@ criterion = nn.CrossEntropyLoss(weight=torch.tensor(class_weights))
 ```
 
 ## Profiling Results (NSYS)
-<img width="1500" height="938" alt="image" src="https://github.com/user-attachments/assets/27fdf444-3594-4c3b-9145-913f4538c01a" />
 
 
 ### NVTX Range Summary (Epoch/Batch Timing)
